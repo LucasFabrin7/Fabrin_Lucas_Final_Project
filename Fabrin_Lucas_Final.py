@@ -21,7 +21,7 @@ vec = pg.math.Vector2
 game_folder = os.path.dirname(__file__)
 img_folder = os.path.join(game_folder, 'images')
 # snd_folder = os.path.join(game_folder, 'sounds')
-
+# aajajajaj
 # took all the settings and
 # moved to the file...
 
