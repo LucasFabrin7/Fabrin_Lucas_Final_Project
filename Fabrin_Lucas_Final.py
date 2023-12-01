@@ -5,6 +5,8 @@ Every 5 seconds the platforms turn invisible for 2 seconds
 Coins spawn in on random platforms and earn you a point for every one you collect
 '''
 
+#pafhpahjbv
+
 # content from kids can code: http://kidscancode.org/blog/
 
 # import libraries and modules
