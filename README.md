@@ -4,7 +4,7 @@ Game meant to be played
 
 ## Description
 
-Side scroller with lava on the bottom of the screen covering from end to end. Platforms will spawn on the right side of the screen in a random order with the height varrying. The player will need to jump from platform to platfrom in order to stay alive and not fall into the lava. If the player falls into the lava they will die and the text "Game Over" will appear. Coins will randommly spawn on the platforms and if the player collects them it will add a point to the counter.
+Side scroller with enemies on the top and bottom that will dmage the player when interacted with. Start screen for the game and once activated sprite begins to run to the right with obstacles approaching with a score counter on the top of the screen.
 
 ## Getting Started
 
@@ -13,15 +13,19 @@ Side scroller with lava on the bottom of the screen covering from end to end. Pl
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 Windows 10
 Python
-Pygame
+Pygame 2.5.2
 
 ### Installing
 
-Have python installed
+Have python installed for 3.11.4
+Github
 
 ### Executing program
 
 Download files and run program
+Open Main.py
+Go to top right
+Run program
 ```
 code blocks for commands
 ```
@@ -46,10 +50,12 @@ no releases yet
 
 ## License
 
-THis project is licensed under the MIT Licesen - see the LICENSE.md file for details
+This project is licensed under the MIT Licesen - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [tech with tim](https://www.techwithtim.net/tutorials/game-development-with-python/side-scroller-pygame/background)
-* [Chris Bradfield](https://www.youtube.com/@chrisbradfield2567)
+kids can code: http://kidscancode.org/blog/
+Jesse Segall - pyagme side scroller
+Daniel Yoon
+Tech With Tim
