@@ -46,7 +46,16 @@ ldfabrin2005@gmail.com
 
 ## Version History
 
-no releases yet
+0.1
+    Test push
+0.2
+    Read me push
+0.3
+    Added player
+0.4
+    Improved
+0.5
+    Final
 
 ## License
 
@@ -55,7 +64,7 @@ This project is licensed under the MIT Licesen - see the LICENSE.md file for det
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-kids can code: http://kidscancode.org/blog/
-Jesse Segall - pyagme side scroller
+kids can code http://kidscancode.org/blog/
 Daniel Yoon
+Jesse Segall 
 Tech With Tim
